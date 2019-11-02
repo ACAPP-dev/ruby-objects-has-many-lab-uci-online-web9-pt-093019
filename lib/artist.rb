@@ -10,7 +10,7 @@ class Artist
   end
 
   def add_song(song)
-    @@songs << name.song
+    songs << song
 
   end
 
